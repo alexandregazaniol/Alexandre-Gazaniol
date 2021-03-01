@@ -21,3 +21,8 @@ I am typing what is hoing through my mind
 **FIRST INFO** I work at [Bpifrance](https://www.bpifrance.fr/)
 
 :coffee: :pizza:
+
+**TO DO LIST**
+- Photo ?
+- Contactinfo
+- Tabs for research and CV
