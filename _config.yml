@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: Alexandre Gazaniol
+title: Alexandre Gazaniol personal website
 email: alexandre.gazaniol@bpifrance.fr
 # description: >- # this means to ignore newlines until "baseurl:"
   # PhD in economics, working within the impact assessment init of Bpifrance.
