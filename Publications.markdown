@@ -10,9 +10,11 @@ Financing of small and medium businesses, loan guarantees, internationalization 
 
 ## Publications of Bpifrance
 
-[Évaluation de l'impact économique des fonds de garantie de place opérés par Bpifrance](https://www.bpifrance.fr/A-la-une/Dossiers/Impact-de-Bpifrance/Garantie-de-credit-bancaire-evaluation-de-l-impact-des-fonds-de-garantie-de-place) (2020), with Mathilde Lê.
+[Évaluation de l'impact économique des fonds de garantie de place opérés par Bpifrance](https://www.bpifrance.fr/A-la-une/Dossiers/Impact-de-Bpifrance/Garantie-de-credit-bancaire-evaluation-de-l-impact-des-fonds-de-garantie-de-place) (2020), with Mathilde Lê. Paper presented at the 6th AFSE-DG Trésor conference for the evaluation of public policy ([working paper version](https://www.afse.fr/global/gene/link.php?doc_id=422&fg=1) / [presentation](https://www.afse.fr/global/gene/link.php?doc_id=421&fg=1))
 
-[Évaluation de l'impact économique des prêts sans garantie de Bpifrance](https://www.bpifrance.fr/A-la-une/Dossiers/Impact-de-Bpifrance/Prets-sans-garantie-de-Bpifrance-evaluation-de-leur-impact-economique)(2020).
+[Évaluation de l'impact économique des prêts sans garantie de Bpifrance](https://www.bpifrance.fr/A-la-une/Dossiers/Impact-de-Bpifrance/Prets-sans-garantie-de-Bpifrance-evaluation-de-leur-impact-economique) (2020).
+
+Other studies evaluating the economic impact of Bpifrance's actions available at [this website](https://www.bpifrance.fr/A-la-une/Dossiers/Impact-de-Bpifrance).
 
 ## Publications in refereed journals
 
