@@ -23,7 +23,7 @@ Financing of small and medium businesses, loan guarantees, internationalization 
 
 ### Publications in refereed journals
 
-## International journals
+#### International journals
 
 [Foreign direct investment and wage dispersion: Evidence from French employer-employee data](https://www.sciencedirect.com/science/article/abs/pii/S2110701718300507) (2019), with Catherine Laffineur, International Economics, n°157, pp 203-226.
 
@@ -34,7 +34,7 @@ Financing of small and medium businesses, loan guarantees, internationalization 
 [Learning from international activities? A microeconometric analysis of first-time innovators](https://docs.google.com/file/d/0B5Iu01HcHdqtNmJMRm1PQXZZLUU/edit?usp=sharing) (2012), International Economics, n°129, pp 31-61
 
 
-## French journals
+#### French journals
 
 [Les performances de entreprises implantées à l'étranger](https://www.insee.fr/fr/statistiques/fichier/1377482/es435i.pdf)  (2011), with Frédéric Peltrault and Jean-Marc Siroën, Economie et Statistiques n°435-436, pp.149-167
 
