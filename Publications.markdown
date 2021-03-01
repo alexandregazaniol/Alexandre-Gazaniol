@@ -6,9 +6,15 @@ permalink: /Publications/
 
 
 ---
+
+
+
 ### Research fields
 
 Financing of small and medium businesses, loan guarantees, internationalization and firm performance, location choices of multinational firms, impact of international trade on domestic employment and wages.
+
+
+
 
 ---
 ### Publications of Bpifrance
@@ -19,6 +25,9 @@ Financing of small and medium businesses, loan guarantees, internationalization 
 [Évaluation de l'impact économique des prêts sans garantie de Bpifrance](https://www.bpifrance.fr/A-la-une/Dossiers/Impact-de-Bpifrance/Prets-sans-garantie-de-Bpifrance-evaluation-de-leur-impact-economique) (2020).
 
 **NOTE** : Other studies evaluating the economic impact of Bpifrance's actions available at [this website](https://www.bpifrance.fr/A-la-une/Dossiers/Impact-de-Bpifrance).
+
+
+
 
 ---
 ### Publications in refereed journals
@@ -37,6 +46,9 @@ Financing of small and medium businesses, loan guarantees, internationalization 
 #### French journals
 
 [Les performances de entreprises implantées à l'étranger](https://www.insee.fr/fr/statistiques/fichier/1377482/es435i.pdf)  (2011), with Frédéric Peltrault and Jean-Marc Siroën, Economie et Statistiques n°435-436, pp.149-167
+
+
+
 
 ---
 ### Other non academic publications (in French)
