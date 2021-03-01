@@ -1,19 +1,11 @@
 ---
 layout: page
-title: Publications
 permalink: /Publications/
 ---
-
-
 ---
-
-
-
 ### Research fields
 
-Financing of small and medium businesses, loan guarantees, internationalization and firm performance, location choices of multinational firms, impact of international trade on domestic employment and wages.
-
-
+Financing of small and medium businesses, loan guarantees, internationalization and firm performance, location choices of multinational firms, impact of international trade on domestic employment and wages.  
 
 
 ---
