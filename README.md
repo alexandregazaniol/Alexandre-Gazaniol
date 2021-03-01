@@ -1,12 +1,16 @@
-# alexandregazaniol.github.io
-
-
 Alexandre Gazaniol
 
-Nouveau site github
+#Nouveau site github
 
-Great new stuff to come
+##Great new stuff to come
 
-Stay tuned
+###Stay tuned
+
+**NEW** Nothing
+
+**QUOTE OF THE DAY**
+>*Let's have coffee*
+
+I am typing what is hoing through my mind
 
 :coffee: :pizza:
