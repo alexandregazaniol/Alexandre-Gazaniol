@@ -33,7 +33,7 @@ Financing of small and medium businesses, loan guarantees, internationalization 
 
 [Learning from international activities? A microeconometric analysis of first-time innovators](https://docs.google.com/file/d/0B5Iu01HcHdqtNmJMRm1PQXZZLUU/edit?usp=sharing) (2012), International Economics, n°129, pp 31-61
 
----
+
 #### French journals
 
 [Les performances de entreprises implantées à l'étranger](https://www.insee.fr/fr/statistiques/fichier/1377482/es435i.pdf)  (2011), with Frédéric Peltrault and Jean-Marc Siroën, Economie et Statistiques n°435-436, pp.149-167
