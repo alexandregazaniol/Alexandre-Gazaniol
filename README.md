@@ -13,4 +13,6 @@ Alexandre Gazaniol
 
 I am typing what is hoing through my mind
 
+**FIRST INFO** I work at [Bpifrance](https://www.bpifrance.fr/)
+
 :coffee: :pizza:
