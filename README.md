@@ -21,6 +21,7 @@ I am typing what is hoing through my mind
 **FIRST INFO** I work at [Bpifrance](https://www.bpifrance.fr/)
 
 I need :coffee:, I love :pizza:
+:skull:
 
 **TO DO LIST**
 - Photo ?
