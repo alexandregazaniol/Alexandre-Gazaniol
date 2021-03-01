@@ -44,7 +44,7 @@ Financing of small and medium businesses, loan guarantees, internationalization 
 
 
 ---
-### Other non academic publications (in French)
+### Other publications (in French)
 
 [Quel est l'impact des fusions/acquisitions sur les performances des entreprises rachetées ?](https://www.tresor.economie.gouv.fr/Articles/2e7cc05b-4ea6-4e10-a5b8-cc586b243ebf/files/24ec9f10-bfbe-4179-8ea6-4a2cc989a245) (2014), Document de travail de la DG Trésor n°2014/02.
 
