@@ -1,10 +1,10 @@
 Alexandre Gazaniol
 
-#Nouveau site github
+# Nouveau site github
 
-##Great new stuff to come
+## Great new stuff to come
 
-###Stay tuned
+### Stay tuned
 
 **NEW** Nothing
 
