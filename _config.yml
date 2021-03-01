@@ -21,11 +21,10 @@
 title: Alexandre Gazaniol
 email: alexandre.gazaniol@bpifrance.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD in economics, working within the impact assessment init of the French public investment bank (Bpifrance)
+  PhD in economics, working within the impact assessment init of the French public investment bank [Bpifrance](www.bpifrance.fr)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: alexandre-gazaniol-bb554821
-github_username:  alexandregazaniol
+linkedin_username: alexandre-gazaniol
 
 # Build settings
 theme: minima
